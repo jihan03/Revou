@@ -1,0 +1,33 @@
+button {
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}

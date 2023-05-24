@@ -1,0 +1,23 @@
+.box0ne {
+    background-color: blue;
+    padding-left: 100px;
+    margin-top: 100px;
+    border: 15px solid black;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+.boxTw0 { 
+    background-color: blue;
+    /*padding-left: 100px;*/
+    margin-top: 100px;
+    border: 15px solid black;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+.flexbox {
+    display: flex;
+    background-color: aquamarine;
+    flex-direction: column-reverse;
+}
